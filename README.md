@@ -2,6 +2,8 @@
 
 A Unity-based immersive football visualizer built with the XR Interaction Toolkit. Designed to simulate and replay real football plays from multiple perspectives — including quarterback, wide receiver, and running back — using XR headsets.
 
+![Panthers Visualizer Logo](https://github.com/user-attachments/assets/b1a4c007-8a64-42b6-8df2-2cccdb7fc6fc)
+
 ## 🚀 Features
 
 - 🎮 **Multi-POV Support**  
