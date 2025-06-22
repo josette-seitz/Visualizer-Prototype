@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "playName": "Inside Zone Left – Running Play",
+    "duration": 10.0,
+    "description": "QB hands off to RB, who runs up the middle and cuts left. WR runs a short slant route."
+  },
+  "qb": [
+    {
+      "time": 0.0,
+      "position": [ 0.0, 0.01, 0.0 ],
+      "rotation": [ 0, 0, 0 ]
+    },
+    {
+      "time": 0.5,
+      "position": [ 0.0, 0.01, -0.2 ],
+      "rotation": [ 0, 0, 0 ]
+    },
+    {
+      "time": 1.0,
+      "position": [ 0.0, 0.01, -0.3 ],
+      "rotation": [ 0, -30, 0 ]
+    },
+    {
+      "time": 1.5,
+      "position": [ 0.0, 0.01, -0.3 ],
+      "rotation": [ 0, -30, 0 ]
+    },
+    {
+      "time": 3.0,
+      "position": [ 0.0, 0.01, -0.3 ],
+      "rotation": [ 0, 0, 0 ]
+    },
+    {
+      "time": 10.0,
+      "position": [ 0.0, 0.01, -0.3 ],
+      "rotation": [ 0, 0, 0 ]
+    }
+  ],
+  "rb": [
+    {
+      "time": 0.0,
+      "position": [ 0.5, 0.01, -0.3 ],
+      "rotation": [ 0, 0, 0 ]
+    },
+    {
+      "time": 1.5,
+      "position": [ 0.0, 0.01, -0.3 ],
+      "rotation": [ 0, 0, 0 ]
+    },
+    {
+      "time": 2.0,
+      "position": [ 0.0, 0.01, 0.5 ],
+      "rotation": [ 0, 0, 0 ]
+    },
+    {
+      "time": 3.0,
+      "position": [ -0.3, 0.01, 1.5 ],
+      "rotation": [ 0, -45, 0 ]
+    },
+    {
+      "time": 4.5,
+      "position": [ -0.8, 0.01, 3.0 ],
+      "rotation": [ 0, -45, 0 ]
+    },
+    {
+      "time": 6.0,
+      "position": [ -1.2, 0.01, 4.5 ],
+      "rotation": [ 0, -45, 0 ]
+    },
+    {
+      "time": 8.0,
+      "position": [ -1.8, 0.01, 6.0 ],
+      "rotation": [ 0, -45, 0 ]
+    },
+    {
+      "time": 10.0,
+      "position": [ -2.5, 0.01, 7.5 ],
+      "rotation": [ 0, -45, 0 ]
+    }
+  ],
+  "wr": [
+    {
+      "time": 0.0,
+      "position": [ 2.0, 0.01, 0.0 ],
+      "rotation": [ 0, 0, 0 ]
+    },
+    {
+      "time": 1.0,
+      "position": [ 2.3, 0.01, 0.5 ],
+      "rotation": [ 0, 10, 0 ]
+    },
+    {
+      "time": 2.0,
+      "position": [ 2.5, 0.01, 1.0 ],
+      "rotation": [ 0, 20, 0 ]
+    },
+    {
+      "time": 3.0,
+      "position": [ 2.6, 0.01, 1.5 ],
+      "rotation": [ 0, 20, 0 ]
+    },
+    {
+      "time": 4.0,
+      "position": [ 2.6, 0.01, 1.5 ],
+      "rotation": [ 0, 20, 0 ]
+    },
+    {
+      "time": 10.0,
+      "position": [ 2.6, 0.01, 1.5 ],
+      "rotation": [ 0, 20, 0 ]
+    }
+  ],
+  "football": [
+    {
+      "time": 0.0,
+      "position": [ 0.138, 1.31, 1.241 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 1.5,
+      "position": [ 0.0, 1.31, -0.3 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 2.0,
+      "position": [ 0.0, 1.31, 0.5 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 3.0,
+      "position": [ -1.668957, 1.31, 3.496 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 4.5,
+      "position": [ -1.71219, 1.31, 4.426 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 5.5,
+      "position": [ -1.872472, 1.31, 5.64 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 6.5,
+      "position": [ -1.923, 1.31, 5.98 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 7.5,
+      "position": [ -2.41, 1.31, 6.43 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 8.0,
+      "position": [ -2.6, 1.31, 6.54 ],
+      "rotation": [ 0, 50, 0 ]
+    },
+    {
+      "time": 10.0,
+      "position": [ -3.532, 1.31, 8.674 ],
+      "rotation": [ 0, 50, 0 ]
+    }
+  ]
+}
