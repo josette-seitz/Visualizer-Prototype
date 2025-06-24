@@ -4732,25 +4732,26 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5600264410406500547, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6032359181132271052, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5449604512509860998, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 9032365620975504780, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 7299970463130885318, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 5172501670716107306, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6908440489781197664, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 7916491820241650867, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 8487837813465323001, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 5361181556667319258, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5940638098763846288, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 1468731183502351072, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 897949029021961130, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
