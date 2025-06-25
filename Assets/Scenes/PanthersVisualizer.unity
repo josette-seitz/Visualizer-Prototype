@@ -4547,6 +4547,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 853562230201516595, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 853562230201516595, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5
+      objectReference: {fileID: 0}
     - target: {fileID: 2826071243996780901, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       propertyPath: m_Name
       value: VisualizerController
@@ -4558,6 +4566,18 @@ PrefabInstance:
     - target: {fileID: 3208095609713546519, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       propertyPath: m_AnchorMin.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3321565514831260570, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+      propertyPath: m_text
+      value: the Referee can move freely and teleport around the field.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3321565514831260570, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+      propertyPath: m_margin.x
+      value: -163.35434
+      objectReference: {fileID: 0}
+    - target: {fileID: 3321565514831260570, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
+      propertyPath: m_margin.z
+      value: -111.89011
       objectReference: {fileID: 0}
     - target: {fileID: 3367961320609934759, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       propertyPath: m_LocalRotation.w
