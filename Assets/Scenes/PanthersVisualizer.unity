@@ -4547,14 +4547,6 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 853562230201516595, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 853562230201516595, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -5
-      objectReference: {fileID: 0}
     - target: {fileID: 2826071243996780901, guid: b8b988c7e373dae47a5bc82e358c9922, type: 3}
       propertyPath: m_Name
       value: VisualizerController
