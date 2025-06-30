@@ -31,7 +31,7 @@ A Unity-based immersive football visualizer built with the XR Interaction Toolki
 - Unity 2022+
 - XR Interaction Toolkit
 - C#
-- Android XR Devices (Quest, Vive Focus 3, etc.)
+- Android XR Devices (Quest series, Vive Focus series, etc.)
 - JSON Data Playback
 - Git LFS for large 3D assets
 
