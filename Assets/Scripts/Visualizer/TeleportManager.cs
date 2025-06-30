@@ -1,20 +1,21 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class TeleportManager : MonoBehaviour
+namespace Visualizer
 {
-    [Header("Teleport To")]
-    [SerializeField]
-    private Transform movePlayerTo;
-
-    private const string TeleportPlayer = "Player";
-
-    private void OnTriggerEnter(Collider other)
+    public class TeleportManager : MonoBehaviour
     {
-        if (other.CompareTag(TeleportPlayer))
+        [Header("Teleport To")]
+        [SerializeField]
+        private Transform movePlayerTo;
+
+        private const string TeleportPlayer = "Player";
+
+        private void OnTriggerEnter(Collider other)
         {
-            other.transform.SetLocalPositionAndRotation(movePlayerTo.localPosition, movePlayerTo.localRotation);
+            if (other.CompareTag(TeleportPlayer))
+            {
+                other.transform.SetLocalPositionAndRotation(movePlayerTo.localPosition, movePlayerTo.localRotation);
+            }
         }
     }
 }
