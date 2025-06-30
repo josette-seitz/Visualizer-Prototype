@@ -9,14 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/PanthersVisualizer.unity
     guid: f762fbf88cd11a7418b3f5a15c3de6dd
   - enabled: 0
-    path: Assets/Scenes/Multiplayer.unity
-    guid: 5fdb6794cbe2760438836ad54246bb00
-  - enabled: 0
     path: Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
-  - enabled: 0
-    path: Assets/Samples/XR Interaction Toolkit/2.5.4/Hands Interaction Demo/HandsDemoScene.unity
-    guid: 3ff35cecbcc52cc42945cf531638a60a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 384d7fea27d413245b5a627040624fbe, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 163a82f196a0386499bfa830a85bf247, type: 2}
