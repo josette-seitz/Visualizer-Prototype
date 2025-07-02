@@ -47,5 +47,5 @@ Configured via `InputActionAsset`. Custom `MoveMenu` map handles UI activation w
 
 ## 📝 License
 
-Private/internal use only – property of StatusPro.
+Prototype for internal use and demonstration purposes only.
 
